@@ -1,0 +1,7 @@
+{
+  "name": "Pro Search & Data Extractor",
+  "description": "A high-end web search tool that leverages Gemini's Google Search grounding to extract and tabulate business names, contact information, and addresses from the live web.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
